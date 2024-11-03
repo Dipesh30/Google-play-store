@@ -56,7 +56,6 @@ The analysis includes the following key components:
 2. **Exploratory Data Analysis (EDA)**: Visualizing trends in app ratings, category performance, and user engagement.
 3. **Correlation Analysis**: Examining relationships between different features, such as ratings and number of installs.
 
-The analysis results are documented in the Jupyter Notebooks located in the `notebooks/` directory.
 
 ## Visualizations
 
@@ -66,7 +65,6 @@ The project includes various visualizations, such as:
 - Histograms of app sizes and install counts
 - Scatter plots to explore the relationship between ratings and the number of reviews
 
-You can find the visualization code in the `src/` directory.
 
 ## Usage
 
